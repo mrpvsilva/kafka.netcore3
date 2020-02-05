@@ -1,2 +1,2 @@
 # kafka.netcore3
-Projeto .Net Core 3.1 com produtor e consumidor de mensagens do apache Kafka
+Exemplo de produtor e consumidor do apache Kafka em .Net Core 3.1
